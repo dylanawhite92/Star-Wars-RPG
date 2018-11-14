@@ -45,9 +45,9 @@ $(document).ready(function () {
 			id: 3,
 			name: "Darth Maul",
 			healthPoints: 180,
-			baseAttack: 12,
-			attackPower: 12,
-			counterAttackPower: 15,
+			baseAttack: 7,
+			attackPower: 7,
+			counterAttackPower: 13,
 			img:"assets/images/maul.jpg"
 		}
 		// reset character selected
